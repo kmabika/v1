@@ -1,2 +1,1 @@
-# kmabika.github.io
-kmabika.github.io
+http://kmabika.me/v1/
